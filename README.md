@@ -46,7 +46,7 @@
 ---
 
 ## **📬 Let’s Connect!**
-💼 [LinkedIn](#) | 🐦 [Twitter](#) | ✉️ [Email](fakultermuluvhu@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/clearence-mpho-muluvhu-33494431a/) 
 
 🌟 *"Alone we can do so little; together we can do so much."* — **Helen Keller**  
 
