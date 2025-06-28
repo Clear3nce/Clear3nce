@@ -7,7 +7,7 @@
 ---
 
 ## **🌍 My Inspiration & Journey**
-> *"I started my software engineering journey with ALX to solve real-world problems. My dream is to develop the **Mzansi Public Services Hub**—a unified platform for emergency services (ambulance, SAPS, clinics) with service ratings. I believe tech should make essential services accessible to all."*
+> *I started my software engineering journey with ALX to solve real-world problems. My dream is to develop the **Mzansi Public Services Hub**—a unified platform for emergency services (ambulance, SAPS, clinics) with service ratings. I believe tech should make essential services accessible to all.*
 
 ---
 
@@ -35,7 +35,7 @@
 *A web app integrating emergency services (ambulance, SAPS, clinics) with real-time tracking and ratings.*  
 **Tech Stack:** Python (Django/Flask), React, PostgreSQL, Mapbox API  
 
-### **2. ALX Portfolio Project: [Project Name]**
+### **2. ALX Portfolio Project (In Progress)**
 🔗 [GitHub Repo](#) | 🌐 [Demo](#)  
 *[Brief description of your best ALX project.]*  
 **Tech Stack:** [List technologies used]  
