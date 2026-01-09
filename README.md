@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm Clearence Mpho Muluvhu | ALX Software Engineering Student.
+# 👋 Hello, I'm Clearence Mpho Muluvhu | ALX Software Engineering Graduate.
 
 🚀 **Backend & Frontend Developer** | Passionate about **building solutions that improve lives**  
 🔥 **My Mission:** *To leverage technology for efficient public service delivery in South Africa and world wide*  
