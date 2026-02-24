@@ -163,13 +163,13 @@ django_expertise:
 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Your+Name;Full-Stack+Engineer;Django+Expert;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Clearence+Muluvhu;Full-Stack+Engineer;Django+Expert;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=clear3nce&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/clear3nce?tab=followers">
+    <img src="https://img.shields.io/github/followers/clear3nce?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </div>
 
