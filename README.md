@@ -36,6 +36,8 @@ I'm a passionate **Full-Stack Software Engineer** with specialized training from
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
 ### **Frontend Development**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -46,17 +48,13 @@ I'm a passionate **Full-Stack Software Engineer** with specialized training from
 
 ---
 
- 
-
----
-
 ```python
 class BackendExpertise:
     def __init__(self):
-        self.languages = ['Python (Expert)', 'GraphQL', 'REST APIs']
+        self.languages = ['Python', 'GraphQL', 'REST APIs']
         self.frameworks = {
-            'Django': ['Advanced ORM', 'DRF', 'Channels', 'Middleware'],
-            'Others': ['Flask', 'FastAPI']
+            'Django': ['Advanced ORM', 'DRF', 'Middleware'],
+            
         }
         self.database_skills = {
             'ORM Mastery': ['Query optimization', 'N+1 problem solving', 
@@ -86,7 +84,7 @@ const frontendSkills: FrontendExpertise = {
     reactNative: 'Cross-platform development'
   },
   styling: ['Tailwind CSS', 'Styled Components', 'SASS/SCSS'],
-  tools: ['VS Code Expert', 'Chrome DevTools', 'Figma']
+  tools: ['VS Code Expert', 'Figma']
 };
 ```
 ## 🏗️ **Full Stack Architecture**
