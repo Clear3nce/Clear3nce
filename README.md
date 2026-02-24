@@ -163,24 +163,47 @@ django_expertise:
 🛠️ Skills & Technologies
 
 <div align="center">
-Backend & Django Expertise
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white
-
-DevOps & Tools
-https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white
-https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
-https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white
-
-Frontend
-https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Your+Name;Full-Stack+Engineer;Django+Expert;Problem+Solver" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/yourusername?tab=followers">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</div>
+
+---
+
+## 🚀 **About Me**
+
+I'm a passionate **Full-Stack Software Engineer** with specialized training from **ALX Prodev Program** in both Backend and Frontend Engineering. I specialize in **Django** development with advanced ORM optimization and scalable architecture design.
+
+> *"Transforming complex requirements into elegant, efficient code"*
+
+### 🎯 **What I Do**
+- 🔭 Currently building **Django-powered full-stack applications**
+- 🌱 Deep diving into **Advanced Django ORM optimization** and **System Design**
+- 👯 Looking to collaborate on **Python/Django projects** and **open-source initiatives**
+- 💬 Ask me about **Django ORM, Full-stack architecture, or Database optimization**
+- ⚡ Fun fact: I optimize database queries like a detective solves mysteries! 🔍
+
+---
+
+## 💻 **Technical Expertise**
+
+### **📡 Backend Engineering** (ALX Prodev BE)
+```python
+class BackendExpertise:
+    def __init__(self):
+        self.languages = ['Python (Expert)', 'GraphQL', 'REST APIs']
+        self.frameworks = {
+            'Django': ['Advanced ORM', 'DRF', 'Channels', 'Middleware'],
+            'Others': ['Flask', 'FastAPI']
+        }
+        self.database_skills = {
+            'ORM Mastery': ['Query optimization', 'N+1 problem solving', 
+                           'Complex joins', 'Aggregations', 'Transactions'],
+            'Databases': ['MySQL', 'PostgreSQL', 'SQLite']
+        }
+        self.devops = ['Docker', 'Kubernetes', 'GitHub Actions', 'Jenkins']
