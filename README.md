@@ -150,33 +150,10 @@ django_expertise:
 ---
 
 ## **📬 Let’s Connect!**
-💼 [LinkedIn](https://www.linkedin.com/in/clearence-mpho-muluvhu-33494431a/) 
+💼 [LinkedIn](https://www.linkedin.com/in/cm-muluvhu-freelancer/) 
 
 🌟 *"Alone we can do so little; together we can do so much."* — **Helen Keller** 
 
-## 📈 **GitHub Stats & Activity**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clear3nce&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clear3nce&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clear3nce&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Clear3nce&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
-</div>
-
-### 📊 **This Week's Activity**
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### 🏆 **GitHub Achievements**
-- 🔥 **Commit Streak**: [Check my current streak](https://streak-stats.demolab.com/?user=Clear3nce)
-- ⭐ **Starred Repositories**: View my starred repos on my profile
-- 📦 **Repositories Created**: Check out my pinned projects below
 
 <!---
 Clear3nce/Clear3nce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
