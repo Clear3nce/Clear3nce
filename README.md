@@ -113,12 +113,12 @@ django_expertise:
 
 ## **📌 Featured Projects**
 ### **1. Mzansi Public Services Hub (In Progress)**
-🔗 [GitHub Repo](#) | 🚀 [Live Demo](#)  
+🔗 [GitHub Repo](https://github.com/Clear3nce/MzansiPublicServiceHub) | 🚀 [Live Demo](#)  
 *A web app integrating emergency services (ambulance, SAPS, clinics) with real-time tracking and ratings.*  
 **Tech Stack:** Python (Django/Flask), React, PostgreSQL, Mapbox API  
 
 ### **2. ALX Portfolio Project (In Progress)**
-🔗 [GitHub Repo](#) | 🌐 [Demo](#)  
+🔗 [GitHub Repo](https://github.com/Clear3nce/Project-1) | 🌐 [Demo](#)  
 *[Brief description of your best ALX project.]*  
 **Tech Stack:** [List technologies used]  
 
