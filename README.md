@@ -110,3 +110,29 @@ class BackendExpertise:
             'Databases': ['MySQL', 'PostgreSQL', 'SQLite']
         }
         self.devops = ['Docker', 'Kubernetes', 'GitHub Actions', 'Jenkins']
+```
+
+
+
+
+## 🎨 **Frontend Engineering** (ALX Prodev FE)
+
+interface FrontendExpertise {
+  core: string[];
+  frameworks: {
+    nextjs: string;
+    reactNative: string;
+  };
+  styling: string[];
+  tools: string[];
+}
+
+const frontendSkills: FrontendExpertise = {
+  core: ['TypeScript', 'JavaScript (ES6+)', 'HTML5', 'CSS3'],
+  frameworks: {
+    nextjs: 'Advanced',
+    reactNative: 'Cross-platform development'
+  },
+  styling: ['Tailwind CSS', 'Styled Components', 'SASS/SCSS'],
+  tools: ['VS Code Expert', 'Chrome DevTools', 'Figma']
+};
