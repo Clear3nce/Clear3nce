@@ -144,7 +144,7 @@ django_expertise:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Clear3nce&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Clear3nce&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
