@@ -110,12 +110,14 @@ class BackendExpertise:
             'Databases': ['MySQL', 'PostgreSQL', 'SQLite']
         }
         self.devops = ['Docker', 'Kubernetes', 'GitHub Actions', 'Jenkins']
+```
 
 
 
 
 
 ## 🎨 **Frontend Engineering** (ALX Prodev FE)
+```Typescript
 
 interface FrontendExpertise {
   core: string[];
