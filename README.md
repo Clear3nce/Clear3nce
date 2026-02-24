@@ -135,9 +135,9 @@ django_expertise:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clear3nce&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Clear3nce&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Clear3nce&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
