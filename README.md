@@ -110,7 +110,7 @@ class BackendExpertise:
             'Databases': ['MySQL', 'PostgreSQL', 'SQLite']
         }
         self.devops = ['Docker', 'Kubernetes', 'GitHub Actions', 'Jenkins']
-```
+
 
 
 
