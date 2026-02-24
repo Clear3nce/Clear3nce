@@ -1,28 +1,3 @@
-
-# 👋 Hello, I'm Clearence Mpho Muluvhu | ALX Software Engineering Graduate.
-
-🚀 **Backend & Frontend Developer** | Passionate about **building solutions that improve lives**  
-🔥 **My Mission:** *To leverage technology for efficient public service delivery in South Africa and world wide*  
-
----
-
-## **🌍 My Inspiration & Journey**
-> *I started my software engineering journey with ALX to solve real-world problems. My dream is to develop the **Mzansi Public Services Hub**—a unified platform for emergency services (ambulance, SAPS, clinics) with service ratings. I believe tech should make essential services accessible to all.*
-
----
-
-
-
-
-
-
-
-<!---
-Clear3nce/Clear3nce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rence+Muluvhu;Full-Stack+Engineer;Django+Expert;Problem+Solver" alt="Typing SVG" />
 </div>
@@ -39,8 +14,14 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 **About Me**
 
 I'm a passionate **Full-Stack Software Engineer** with specialized training from **ALX Prodev Program** in both Backend and Frontend Engineering. I specialize in **Django** development with advanced ORM optimization and scalable architecture design.
+🔥 **My Mission:** *To leverage technology for efficient public service delivery in South Africa and world wide*
 
-> *"Transforming complex requirements into elegant, efficient code"*
+ *"Transforming complex requirements into elegant, efficient code"*
+ 
+ ---
+
+## **🌍 My Inspiration & Journey**
+> *I started my software engineering journey with ALX to solve real-world problems. My dream is to develop the **Mzansi Public Services Hub**—a unified platform for emergency services (ambulance, SAPS, clinics) with service ratings. I believe tech should make essential services accessible to all.*
 
 ### 🎯 **What I Do**
 - 🔭 Currently building **Django-powered full-stack applications**
@@ -151,3 +132,8 @@ django_expertise:
     - Migration strategies
     - Data warehousing concepts
 ```
+
+<!---
+Clear3nce/Clear3nce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
