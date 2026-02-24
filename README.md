@@ -60,19 +60,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-
-
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+[Your+Name];Full-Stack+Engineer;Django+Expert;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Clearence+Muluvhu;Full-Stack+Engineer;Django+Expert;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=clear3nce&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/clear3nce?tab=followers">
+    <img src="https://img.shields.io/github/followers/clear3nce?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </div>
 
@@ -93,9 +88,6 @@ I'm a passionate **Full-Stack Software Engineer** with specialized training from
 
 ---
 
-## 💻 **Technical Expertise**
-
-### **📡 Backend Engineering** (ALX Prodev BE)
 ```python
 class BackendExpertise:
     def __init__(self):
@@ -111,10 +103,6 @@ class BackendExpertise:
         }
         self.devops = ['Docker', 'Kubernetes', 'GitHub Actions', 'Jenkins']
 ```
-
-
-
-
 
 ## 🎨 **Frontend Engineering** (ALX Prodev FE)
 ```Typescript
@@ -160,50 +148,3 @@ django_expertise:
     - Migration strategies
     - Data warehousing concepts
 ```
-🛠️ Skills & Technologies
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Clearence+Muluvhu;Full-Stack+Engineer;Django+Expert;Problem+Solver" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=clear3nce&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/clear3nce?tab=followers">
-    <img src="https://img.shields.io/github/followers/clear3nce?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</div>
-
----
-
-## 🚀 **About Me**
-
-I'm a passionate **Full-Stack Software Engineer** with specialized training from **ALX Prodev Program** in both Backend and Frontend Engineering. I specialize in **Django** development with advanced ORM optimization and scalable architecture design.
-
-> *"Transforming complex requirements into elegant, efficient code"*
-
-### 🎯 **What I Do**
-- 🔭 Currently building **Django-powered full-stack applications**
-- 🌱 Deep diving into **Advanced Django ORM optimization** and **System Design**
-- 👯 Looking to collaborate on **Python/Django projects** and **open-source initiatives**
-- 💬 Ask me about **Django ORM, Full-stack architecture, or Database optimization**
-- ⚡ Fun fact: I optimize database queries like a detective solves mysteries! 🔍
-
----
-
-## 💻 **Technical Expertise**
-
-### **📡 Backend Engineering** (ALX Prodev BE)
-```python
-class BackendExpertise:
-    def __init__(self):
-        self.languages = ['Python (Expert)', 'GraphQL', 'REST APIs']
-        self.frameworks = {
-            'Django': ['Advanced ORM', 'DRF', 'Channels', 'Middleware'],
-            'Others': ['Flask', 'FastAPI']
-        }
-        self.database_skills = {
-            'ORM Mastery': ['Query optimization', 'N+1 problem solving', 
-                           'Complex joins', 'Aggregations', 'Transactions'],
-            'Databases': ['MySQL', 'PostgreSQL', 'SQLite']
-        }
-        self.devops = ['Docker', 'Kubernetes', 'GitHub Actions', 'Jenkins']
