@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=clear3nce&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/clear3nce?tab=followers">
-    <img src="https://img.shields.io/github/followers/Clear3nce?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/clear3nce?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </div>
 
@@ -127,7 +127,9 @@ django_expertise:
 ### **1. Mzansi Public Services Hub (In Progress)**
 🔗 [GitHub Repo](https://github.com/Clear3nce/MzansiPublicServiceHub) | 🚀 [Live Demo](#)  
 *A web app integrating emergency services (ambulance, SAPS, clinics) with real-time tracking and ratings.*  
-**Tech Stack:** Python (Django/Flask), React, PostgreSQL, Mapbox API  
+**Tech Stack:** Python (Django/Flask), React, PostgreSQL, RESTful APIs, GraphQL, infrastructure & DevOps: Docker, CI/CD Pipelines (GitHub Actions) Framework: Next.js 14+
+Styling: Tailwind CSS
+Type System: TypeScript  
 
 ### **2. ALX Portfolio Project (In Progress)**
 🔗 [GitHub Repo](https://github.com/Clear3nce/Project-1) | 🌐 [Demo](#)  
