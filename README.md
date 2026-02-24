@@ -126,10 +126,10 @@ django_expertise:
 
 ## 📈 **GitHub Stats & Activity**
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clear3nce&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clear3nce&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clear3nce&theme=github-dark&hide_border=true" alt="GitHub Streak" />
