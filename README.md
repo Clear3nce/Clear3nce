@@ -138,3 +138,49 @@ const frontendSkills: FrontendExpertise = {
   styling: ['Tailwind CSS', 'Styled Components', 'SASS/SCSS'],
   tools: ['VS Code Expert', 'Chrome DevTools', 'Figma']
 };
+```
+## 🏗️ **Full Stack Architecture**
+```yaml
+django_expertise:
+  orm_optimization:
+    - select_related & prefetch_related optimization
+    - Custom querysets and managers
+    - Database indexing strategies
+    - Query performance monitoring
+  
+  architecture_patterns:
+    - MVC/MVT pattern
+    - Microservices with Django
+    - Django REST Framework
+    - GraphQL integration
+  
+  database_design:
+    - Complex relationships
+    - Database normalization/denormalization
+    - Migration strategies
+    - Data warehousing concepts
+```
+🛠️ Skills & Technologies
+
+<div align="center">
+Backend & Django Expertise
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white
+
+DevOps & Tools
+https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white
+
+Frontend
+https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+
+</div>
