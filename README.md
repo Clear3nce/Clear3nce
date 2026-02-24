@@ -46,29 +46,7 @@ I'm a passionate **Full-Stack Software Engineer** with specialized training from
 
 ---
 
-## **📌 Featured Projects**
-### **1. Mzansi Public Services Hub (In Progress)**
-🔗 [GitHub Repo](#) | 🚀 [Live Demo](#)  
-*A web app integrating emergency services (ambulance, SAPS, clinics) with real-time tracking and ratings.*  
-**Tech Stack:** Python (Django/Flask), React, PostgreSQL, Mapbox API  
-
-### **2. ALX Portfolio Project (In Progress)**
-🔗 [GitHub Repo](#) | 🌐 [Demo](#)  
-*[Brief description of your best ALX project.]*  
-**Tech Stack:** [List technologies used]  
-
----
-
-## **📈 GitHub Stats & Activity**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clear3nce&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clear3nce&layout=compact&theme=dark)  
-
----
-
-## **📬 Let’s Connect!**
-💼 [LinkedIn](https://www.linkedin.com/in/clearence-mpho-muluvhu-33494431a/) 
-
-🌟 *"Alone we can do so little; together we can do so much."* — **Helen Keller**  
+ 
 
 ---
 
@@ -132,6 +110,49 @@ django_expertise:
     - Migration strategies
     - Data warehousing concepts
 ```
+
+## **📌 Featured Projects**
+### **1. Mzansi Public Services Hub (In Progress)**
+🔗 [GitHub Repo](#) | 🚀 [Live Demo](#)  
+*A web app integrating emergency services (ambulance, SAPS, clinics) with real-time tracking and ratings.*  
+**Tech Stack:** Python (Django/Flask), React, PostgreSQL, Mapbox API  
+
+### **2. ALX Portfolio Project (In Progress)**
+🔗 [GitHub Repo](#) | 🌐 [Demo](#)  
+*[Brief description of your best ALX project.]*  
+**Tech Stack:** [List technologies used]  
+
+---
+
+## **📈 GitHub Stats & Activity**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clear3nce&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clear3nce&layout=compact&theme=dark)  
+
+## 📈 **GitHub Stats & Activity**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clear3nce&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clear3nce&layout=compact&langs_count=8&theme=github_dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clear3nce&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Clear3nce&theme=react-dark" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Clear3nce&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## **📬 Let’s Connect!**
+💼 [LinkedIn](https://www.linkedin.com/in/clearence-mpho-muluvhu-33494431a/) 
+
+🌟 *"Alone we can do so little; together we can do so much."* — **Helen Keller** 
 
 <!---
 Clear3nce/Clear3nce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
